@@ -1,0 +1,7 @@
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\bin\Debug\studyReadLine.exe.config
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\bin\Debug\studyReadLine.exe
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\bin\Debug\studyReadLine.pdb
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\obj\Debug\studyReadLine.csproj.AssemblyReference.cache
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\obj\Debug\studyReadLine.csproj.CoreCompileInputs.cache
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\obj\Debug\studyReadLine.exe
+C:\s\dev\vs_ws\LikeLion\studyReadLine\studyReadLine\obj\Debug\studyReadLine.pdb
