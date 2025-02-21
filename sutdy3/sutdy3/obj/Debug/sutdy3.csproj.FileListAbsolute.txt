@@ -1,0 +1,7 @@
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\bin\Debug\sutdy3.exe.config
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\bin\Debug\sutdy3.exe
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\bin\Debug\sutdy3.pdb
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\obj\Debug\sutdy3.csproj.AssemblyReference.cache
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\obj\Debug\sutdy3.csproj.CoreCompileInputs.cache
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\obj\Debug\sutdy3.exe
+C:\s\dev\vs_ws\LikeLion\sutdy3\sutdy3\obj\Debug\sutdy3.pdb
